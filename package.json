@@ -33,7 +33,8 @@
     ]
   },
   "peerDependencies": {
-    "css-loader": "*"
+    "css-loader": "*",
+    "webpack": ">=2"
   },
   "dependencies": {
     "@vue/component-compiler-utils": "^2.0.0",
